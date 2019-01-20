@@ -1,0 +1,3 @@
+This is a tutorial project for building a version of React.
+
+Following the guide here: https://hackernoon.com/build-your-own-react-48edb8ed350d
